@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Twitter Clone</string>
+
+    <string name="Go_Back"><u>Go Back to SignUp Page</u></string>
+</resources>
